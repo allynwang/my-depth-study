@@ -23,11 +23,13 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="basic" />
+        <module name="rabbitmq-demo-java" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="basic" target="1.5" />
       <module name="my-depth-study" target="1.5" />
+      <module name="rabbitmq-demo-java" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

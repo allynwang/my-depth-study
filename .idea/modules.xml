@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-depth-study.iml" filepath="$PROJECT_DIR$/my-depth-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-demo-java/rabbitmq-demo-java.iml" filepath="$PROJECT_DIR$/rabbitmq-demo-java/rabbitmq-demo-java.iml" />
     </modules>
   </component>
 </project>

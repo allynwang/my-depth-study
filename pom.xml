@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>basic</module>
+        <module>rabbitmq-demo-java</module>
     </modules>
     <properties>
         <spring.version>4.1.1.RELEASE</spring.version>
@@ -61,6 +62,19 @@
             <artifactId>junit</artifactId>
             <version>4.11</version>
             <scope>test</scope>
+        </dependency>
+
+        <!-- rabbitmq -->
+        <dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>2.6</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.rabbitmq</groupId>
+            <artifactId>amqp-client</artifactId>
+            <version>3.0.4</version>
         </dependency>
     </dependencies>
 </project>
