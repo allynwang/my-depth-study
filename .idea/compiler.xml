@@ -23,13 +23,19 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="basic" />
+        <module name="concurrent-demo" />
         <module name="rabbitmq-demo-java" />
+        <module name="redis-demo" />
+        <module name="thread-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="basic" target="1.5" />
+      <module name="concurrent-demo" target="1.5" />
       <module name="my-depth-study" target="1.5" />
       <module name="rabbitmq-demo-java" target="1.5" />
+      <module name="redis-demo" target="1.5" />
+      <module name="thread-demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

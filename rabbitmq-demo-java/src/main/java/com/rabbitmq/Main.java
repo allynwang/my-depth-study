@@ -1,5 +1,7 @@
 package com.rabbitmq;
 
+import org.apache.log4j.Logger;
+
 import java.util.HashMap;
 
 /**
@@ -31,6 +33,15 @@ public class Main {
      * @throws IOException
      */
     public static void main(String[] args) throws Exception{
-        new Main();
+        //new Main();
+        System.out.println("hello rabbit");
+        System.out.println("hello rabbit");
+        System.out.println("hello rabbit");
+        System.out.println("hello rabbit");
+        System.out.println("hello rabbit");
+        System.out.println("hello rabbit");
+        System.out.println("hello rabbit");
+        System.out.println("hello rabbit");
+        System.out.println("hello rabbit");
     }
 }

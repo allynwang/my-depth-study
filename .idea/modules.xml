@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent-demo/concurrent-demo.iml" filepath="$PROJECT_DIR$/concurrent-demo/concurrent-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-depth-study.iml" filepath="$PROJECT_DIR$/my-depth-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq-demo-java/rabbitmq-demo-java.iml" filepath="$PROJECT_DIR$/rabbitmq-demo-java/rabbitmq-demo-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-demo/redis-demo.iml" filepath="$PROJECT_DIR$/redis-demo/redis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-demo/thread-demo.iml" filepath="$PROJECT_DIR$/thread-demo/thread-demo.iml" />
     </modules>
   </component>
 </project>
